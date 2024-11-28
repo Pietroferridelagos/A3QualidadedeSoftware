@@ -1,3 +1,5 @@
+package model;
+
 public class Medico {
     private String nome;
     private String especialidade;
